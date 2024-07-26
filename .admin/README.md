@@ -13,7 +13,7 @@ Siden elevene deler brukere må vi slette tenk mappen etter bruk.
 
 1. Logg in på gcp: https://console.cloud.google.com/compute/instances?project=boitano
 
-1. Finn instans ved navn `tenk-v2`
+1. Finn instans ved navn `tenk-camp-2024`
 1. ssh inn på serveren, naviger til `/home`
 1. Kjør `sudo chmod +x jupyter-*` i terminalen for å få rett tilgang
 1. Slett mappene under alle brukernavn med denne kommandoen: 
@@ -28,6 +28,6 @@ sudo find jupyter-usr*/ -type d -name "tenk-camp-2023" -exec rm -r {} +
 ### Launch knapp
 1. Bruk lenken til å generere url lenken som tar elevene fra github til workshoppen
     * https://nbgitpuller.readthedocs.io/en/latest/link.html
-1. For å lage denne tregner man adressen til jupyter serveren den finner her i feltet external IP for `tenk-v2` instansen 
+1. For å lage denne tregner man adressen til jupyter serveren den finner her i feltet external IP for `tenk-camp-2024` instansen 
     - https://console.cloud.google.com/compute/instances?referrer=search&project=boitano 
     
