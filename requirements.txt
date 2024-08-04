@@ -1,1 +1,1 @@
-socketio
+python-socketio
