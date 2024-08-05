@@ -19,7 +19,7 @@ Siden elevene deler brukere må vi slette tenk mappen etter bruk.
 1. Slett mappene under alle brukernavn med denne kommandoen: 
 
 ````bash
-sudo find jupyter-usr*/ -type d -name "tenk-camp-2023" -exec rm -r {} +
+sudo find jupyter-usr*/ -type d -name "tenk-camp-2023.git" -exec rm -r {} +
 ````
 
 ### Installer python pakker
