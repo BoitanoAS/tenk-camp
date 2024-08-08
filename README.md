@@ -1,4 +1,4 @@
-# Velokmmen til bot-AI-no sin kodesentral 👩🏽‍💻
+# Velkommen til bot-AI-no sin kodesentral 👩🏽‍💻
 ![HovedOppdrag](img/oppdrag/intro_bilde.png)
 ![HovedOppdragTxt](img/oppdrag/intro_txt.png)
 
